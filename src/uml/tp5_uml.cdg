@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="tp5_uml">
+  <ClassDiagramComponents>
+    <Class name="Arreglo" package="" visibility="public" xPosition="131.0" yPosition="223.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="sumarLista" returnType="void" visibility="public">
+          <Argument type="int" name="lista"/>
+        </Method>
+        <Method name="buscarMayor" returnType="void" visibility="public">
+          <Argument type="int" name="lista"/>
+        </Method>
+        <Method name="cuentaVocales" returnType="void" visibility="public">
+          <Argument type="String" name="string"/>
+        </Method>
+        <Method name="cuentaCaracter" returnType="void" visibility="public">
+          <Argument type="String" name="string"/>
+          <Argument type="char" name="caracter"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="PruebaArreglo" package="" visibility="public" xPosition="198.0" yPosition="42.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
