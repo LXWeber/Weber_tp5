@@ -1,4 +1,4 @@
-package weber_tp5;
+package entidades;
 
 public class Arreglo {
     //-------------A------------//
